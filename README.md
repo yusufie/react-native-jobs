@@ -11,3 +11,9 @@ npx create-expo-app -e with-router
 ## 📝 Notes
 
 - [Expo Router: Docs](https://docs.expo.dev/router/introduction/)
+
+## Run mobile hardware server
+
+```sh
+npx expo start --tunnel
+```
